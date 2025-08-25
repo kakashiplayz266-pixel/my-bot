@@ -1,0 +1,10 @@
+{
+  "name": "mc-afk-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "mineflayer": "^4.32.0"
+  }
+}
